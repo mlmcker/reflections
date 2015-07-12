@@ -6,3 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 	Staging area make the repository aware of the files.  It allows you to work on the files without every change going into the repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	always commit after making a change.  Do a diff before to make sure nothing else got added.
