@@ -1,0 +1,3 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+	Create .git directory and all infrastructure.  Can't do any git shit without it.
